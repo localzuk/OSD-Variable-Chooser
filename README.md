@@ -22,7 +22,8 @@ Ensure you distribut the package to your distribution points.
 
 ## Config Example:
 
-```{
+```
+{
 	"sites": [{
 		"Text": "Central Team",
 		"Value": "CENT"
