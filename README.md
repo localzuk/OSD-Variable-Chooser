@@ -62,4 +62,5 @@ Ensure you distribut the package to your distribution points.
 	"validIDPrefixes": [2505, 2715, 2733, 3000],
 	"maxAssetIDPrefixLength": 4,
 	"AssetIDLength": 8		
-}```
+}
+```
