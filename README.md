@@ -38,10 +38,10 @@ Ensure you distribut the package to your distribution points.
 	"ous": [{
 			"CENT": {
 				"Values":[{
-					"Text": "WSAT Desktops",
+					"Text": "Desktops",
 					"Value": "LDAP://OU=Desktops,OU=CENT,OU=Managed Devices,DC=domain,DC=example"
 					},{
-					"Text": "WSAT Desktops - IT Admin",
+					"Text": "Laptops",
 					"Value": "LDAP://OU=Laptops,OU=CENT,OU=Managed Devices,DC=domain,DC=example"
 					}
 				}
