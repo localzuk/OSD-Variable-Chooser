@@ -1,3 +1,7 @@
+# What this project does
+
+This tool allows you to set the name and OU of a device during OSD in MECM, based on a set of pre-configured options you provide with the tool to ensure devices are configured how you want consistently.
+
 # Setup
 
 Configure the config.json to match your needs.
