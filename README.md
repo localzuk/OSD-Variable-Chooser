@@ -14,7 +14,7 @@ Your logo should be saved as a png file called logo.png in the root of the same 
 
 # MECM Usage
 
-Create a package containing the 3 files - config.json, OSD-Chooser.ps1 and your logo.png. The package does not have a program.
+Create a package containing the 3 files - config.json, OSD-Variable-Chooser.ps1 and your logo.png. The package does not have a program.
 In your OSD Task Sequence, add a powershell step near the start. Specify the package you added in the last step, and enter the OSD-Chooser.ps1 script as the script to run.
 Change the execution policy to Bypass.
 
